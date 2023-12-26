@@ -1,6 +1,6 @@
 # Based on [Infinite Company](https://www.unknowncheats.me/forum/other-fps-games/613770-infinite-company-lethal-company-cheat.html) by UrbanaJoker
 
-# Renamed to Project Astolfo as it was an entirely different project, credits to the entire original creator at [UnknownCheats](https://www.unknowncheats.me/forum/other-fps-games/616587-project-apparatus-lethal-company-cheat.html) and their [Github](https://github.com/KaylinOwO/Project-Apparatus/tree/main)
+# The reason it says Project Astolfo was because I was testing stuff, this will be reverted next update, credits to the entire original creator at [UnknownCheats](https://www.unknowncheats.me/forum/other-fps-games/616587-project-apparatus-lethal-company-cheat.html) and their [Github](https://github.com/KaylinOwO/Project-Apparatus/tree/main)
 
 ## Screenshots
 
